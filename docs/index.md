@@ -1,17 +1,24 @@
-# Welcome to MkDocs
+# Evacuation Coordination
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<img src="womanphone.png" alt="Woman with Phone" style="width:200px;">
 
-## Commands
+## Coordination is hard when people must commit to choices.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- Government leadership plays a central role
+- Many individuals/families commit to their own choices
+- Massive amount occurring in the informal domain
 
-## Project layout
+Not only communicating data:
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Inform people, learn from people, coordinate decisions
+
+We have over a decade of tools and platforms to support this governance, information exchange, and coordinated decision making
+
+Early US work:
+
+- Drought information, water markets, and farm planting choices 
+- Coordinating seed planting in Arizona
+
+<img src="yumapinmap.png" alt="" style="width:500px;">
+
+This work was performed by the Wu Lab in the Department of Computer Science and the National Center for Disaster Preparedness in the Climate School, both at Columbia University.  The US National Science Foundation funded much of the software infrastructure used.
